@@ -1,0 +1,42 @@
+
+# Player Info
+Allows script access: false
+Renderer: wgpu
+Adapter Backend: Gl
+Adapter Name: "ANGLE (Intel, Intel(R) HD Graphics 630 (0x0000591B) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+Adapter Device Type: IntegratedGpu
+Adapter Driver Name: ""
+Adapter Driver Info: "WebGL 2.0 (OpenGL ES 3.0 Chromium)"
+Enabled features: Features(TEXTURE_COMPRESSION_BC | FLOAT32_FILTERABLE | TEXTURE_ADAPTER_SPECIFIC_FORMAT_FEATURES)
+Available features: Features(DEPTH32FLOAT_STENCIL8 | TEXTURE_COMPRESSION_BC_SLICED_3D | PUSH_CONSTANTS | CLEAR_TEXTURE | MULTIVIEW)
+Current limits: Limits { max_texture_dimension_1d: 16384, max_texture_dimension_2d: 16384, max_texture_dimension_3d: 2048, max_texture_array_layers: 256, max_bind_groups: 4, max_bindings_per_bind_group: 1000, max_dynamic_uniform_buffers_per_pipeline_layout: 8, max_dynamic_storage_buffers_per_pipeline_layout: 0, max_sampled_textures_per_shader_stage: 16, max_samplers_per_shader_stage: 16, max_storage_buffers_per_shader_stage: 0, max_storage_textures_per_shader_stage: 0, max_uniform_buffers_per_shader_stage: 11, max_uniform_buffer_binding_size: 65536, max_storage_buffer_binding_size: 0, max_vertex_buffers: 8, max_buffer_size: 268435456, max_vertex_attributes: 16, max_vertex_buffer_array_stride: 255, min_uniform_buffer_offset_alignment: 256, min_storage_buffer_offset_alignment: 256, max_inter_stage_shader_components: 120, max_color_attachments: 4, max_color_attachment_bytes_per_sample: 32, max_compute_workgroup_storage_size: 0, max_compute_invocations_per_workgroup: 0, max_compute_workgroup_size_x: 0, max_compute_workgroup_size_y: 0, max_compute_workgroup_size_z: 0, max_compute_workgroups_per_dimension: 0, min_subgroup_size: 0, max_subgroup_size: 0, max_push_constant_size: 0, max_non_sampler_bindings: 1000000 }
+Surface quality: high
+Surface samples: 4
+Surface size: (550, 400, 1)
+
+# Page Info
+Page URL: chrome-extension://donbcfbmhbcapadipfkeojnmajbakjdc/player.html#http://ososgroup.com/enwebsite.swf
+SWF URL: http://ososgroup.com/enwebsite.swf
+
+# Browser Info
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+Platform: Win32
+Has touch support: false
+
+# Ruffle Info
+Version: 0.1.0
+Name: nightly 2025-04-17
+Channel: nightly
+Built: 2025-04-17T00:06:45.783Z
+Commit: 83744bcb37291f2bd2070959d12a78c15d5c47c3
+Is extension: true
+
+# Metadata
+width: 1025
+height: 650
+frameRate: 40
+numFrames: 2
+swfVersion: 9
+backgroundColor: #FFFFFF
+isActionScript3: false
+uncompressedLength: 2748108
